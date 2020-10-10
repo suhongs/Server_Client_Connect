@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HWs9L0bN1/Yk9petctiw7CxY7ZSmZoLkizggnv929Lyy3/u3fn86hD97n6aKzzMe6/KsTPGabnWnAW1ptY+YlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rlatn\\source\\repos\\YutServer\\UnityNetwork\\UnityNetwork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rlatn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rlatn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

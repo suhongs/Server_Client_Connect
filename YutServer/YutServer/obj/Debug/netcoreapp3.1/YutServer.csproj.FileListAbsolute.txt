@@ -1,0 +1,16 @@
+C:\Users\rlatn\source\repos\YutServer\YutServer\bin\Debug\netcoreapp3.1\YutServer.exe
+C:\Users\rlatn\source\repos\YutServer\YutServer\bin\Debug\netcoreapp3.1\YutServer.deps.json
+C:\Users\rlatn\source\repos\YutServer\YutServer\bin\Debug\netcoreapp3.1\YutServer.runtimeconfig.json
+C:\Users\rlatn\source\repos\YutServer\YutServer\bin\Debug\netcoreapp3.1\YutServer.runtimeconfig.dev.json
+C:\Users\rlatn\source\repos\YutServer\YutServer\bin\Debug\netcoreapp3.1\YutServer.dll
+C:\Users\rlatn\source\repos\YutServer\YutServer\bin\Debug\netcoreapp3.1\YutServer.pdb
+C:\Users\rlatn\source\repos\YutServer\YutServer\bin\Debug\netcoreapp3.1\UnityNetwork.dll
+C:\Users\rlatn\source\repos\YutServer\YutServer\bin\Debug\netcoreapp3.1\UnityNetwork.pdb
+C:\Users\rlatn\source\repos\YutServer\YutServer\obj\Debug\netcoreapp3.1\YutServer.csprojAssemblyReference.cache
+C:\Users\rlatn\source\repos\YutServer\YutServer\obj\Debug\netcoreapp3.1\YutServer.AssemblyInfoInputs.cache
+C:\Users\rlatn\source\repos\YutServer\YutServer\obj\Debug\netcoreapp3.1\YutServer.AssemblyInfo.cs
+C:\Users\rlatn\source\repos\YutServer\YutServer\obj\Debug\netcoreapp3.1\YutServer.csproj.CoreCompileInputs.cache
+C:\Users\rlatn\source\repos\YutServer\YutServer\obj\Debug\netcoreapp3.1\YutServer.csproj.CopyComplete
+C:\Users\rlatn\source\repos\YutServer\YutServer\obj\Debug\netcoreapp3.1\YutServer.dll
+C:\Users\rlatn\source\repos\YutServer\YutServer\obj\Debug\netcoreapp3.1\YutServer.pdb
+C:\Users\rlatn\source\repos\YutServer\YutServer\obj\Debug\netcoreapp3.1\YutServer.genruntimeconfig.cache

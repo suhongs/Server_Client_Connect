@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "YutServer/1.0.0": {
+        "dependencies": {
+          "UnityNetwork": "1.0.0"
+        },
+        "runtime": {
+          "YutServer.dll": {}
+        }
+      },
+      "UnityNetwork/1.0.0": {
+        "runtime": {
+          "UnityNetwork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YutServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityNetwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

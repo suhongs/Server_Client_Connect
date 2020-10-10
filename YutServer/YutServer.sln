@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YutServer", "YutServer\YutServer.csproj", "{BF092916-1D56-41A9-BD55-784973D69D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityNetwork", "UnityNetwork\UnityNetwork.csproj", "{721EE77E-C938-4E56-B50C-C5E24A75897C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF092916-1D56-41A9-BD55-784973D69D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF092916-1D56-41A9-BD55-784973D69D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF092916-1D56-41A9-BD55-784973D69D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF092916-1D56-41A9-BD55-784973D69D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721EE77E-C938-4E56-B50C-C5E24A75897C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721EE77E-C938-4E56-B50C-C5E24A75897C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721EE77E-C938-4E56-B50C-C5E24A75897C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721EE77E-C938-4E56-B50C-C5E24A75897C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B67FF73-203D-4A4E-A359-41B226C8539F}
+	EndGlobalSection
+EndGlobal

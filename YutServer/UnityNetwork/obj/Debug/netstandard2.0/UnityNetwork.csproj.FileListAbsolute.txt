@@ -1,0 +1,9 @@
+C:\Users\rlatn\source\repos\YutServer\UnityNetwork\bin\Debug\netstandard2.0\UnityNetwork.deps.json
+C:\Users\rlatn\source\repos\YutServer\UnityNetwork\bin\Debug\netstandard2.0\UnityNetwork.dll
+C:\Users\rlatn\source\repos\YutServer\UnityNetwork\bin\Debug\netstandard2.0\UnityNetwork.pdb
+C:\Users\rlatn\source\repos\YutServer\UnityNetwork\obj\Debug\netstandard2.0\UnityNetwork.csprojAssemblyReference.cache
+C:\Users\rlatn\source\repos\YutServer\UnityNetwork\obj\Debug\netstandard2.0\UnityNetwork.AssemblyInfoInputs.cache
+C:\Users\rlatn\source\repos\YutServer\UnityNetwork\obj\Debug\netstandard2.0\UnityNetwork.AssemblyInfo.cs
+C:\Users\rlatn\source\repos\YutServer\UnityNetwork\obj\Debug\netstandard2.0\UnityNetwork.csproj.CoreCompileInputs.cache
+C:\Users\rlatn\source\repos\YutServer\UnityNetwork\obj\Debug\netstandard2.0\UnityNetwork.dll
+C:\Users\rlatn\source\repos\YutServer\UnityNetwork\obj\Debug\netstandard2.0\UnityNetwork.pdb
